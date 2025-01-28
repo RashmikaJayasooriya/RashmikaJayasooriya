@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Rashmika Jayasooriya
-👩🏻‍💻 I'm an Undergraduate Software Engineer<br>👩🏻‍🎓 Currently pursuing Software Engineering studies at the Java Institute, Sri Lanka<br>🎓 My degree is offered by Birmingham City University (Bachelor of Science with Honours in Software Engineering).<br>🌱 I’m currently learning Spring Boot, React Native, Jakarta EE,<br>💬 Ask me about Java, PHP, HTML, CSS, JavaScript, TypeScript, MySQL, Android<br>📫 How to reach me uvindurashmika20010405@outlook.com<br>👨‍💻 All of my projects are available at https://rashmikajayasooriya.great-site.net/
+👩🏻‍💻 I'm an Undergraduate Software Engineer<br>👩🏻‍🎓 Currently pursuing Software Engineering studies at the Java Institute, Sri Lanka<br>🎓 My degree is offered by Birmingham City University (Bachelor of Science with Honours in Software Engineering).<br>🌱 I’m currently learning Spring Boot, React Native, Jakarta EE,<br>💬 Ask me about Java, PHP, HTML, CSS, JavaScript, TypeScript, MySQL, Android<br>📫 How to reach me uvindurashmika20010405@outlook.com<br>👨‍💻 All of my projects are available at https://rashmika.vercel.app/
 
 
 ## 🌐 Socials
